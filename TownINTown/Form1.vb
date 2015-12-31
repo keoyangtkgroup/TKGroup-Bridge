@@ -151,8 +151,6 @@ Public Class Form1
             TransactionID = M_StationID & Date.Now.ToString("yyMMdd", uie) & "0001"
         End If
 
-
-
         If valid_car = True Then
             InsertTransactionCarIn("", "IN", "", "", "", "IN", "", "", "", "", "")
         Else
