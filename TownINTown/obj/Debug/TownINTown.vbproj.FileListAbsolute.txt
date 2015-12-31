@@ -28,3 +28,6 @@ E:\TKGroup\Bridge\TownINTown\TownINTown\obj\Debug\TownINTown.pdb
 E:\Bridge\TownINTown\obj\Debug\TownINTown.exe
 E:\Bridge\TownINTown\obj\Debug\TownINTown.xml
 E:\Bridge\TownINTown\obj\Debug\TownINTown.pdb
+C:\Users\theppany\Desktop\Bridge\TKGroup-Bridge\TownINTown\obj\Debug\TownINTown.exe
+C:\Users\theppany\Desktop\Bridge\TKGroup-Bridge\TownINTown\obj\Debug\TownINTown.xml
+C:\Users\theppany\Desktop\Bridge\TKGroup-Bridge\TownINTown\obj\Debug\TownINTown.pdb
